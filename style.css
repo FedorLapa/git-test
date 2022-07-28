@@ -1,0 +1,35 @@
+body{
+    display: flex;
+}
+h1{
+    background-color: rgb(253, 92, 253);
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div{
+    width: 200px; 
+    height: 200px;
+    vertical-align: middle;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.a{
+    background-color: plum;
+    cursor:alias;
+}
+.b{
+    background-color: rgb(6, 236, 95);
+    cursor:pointer;
+}
+.c{
+    background-color: darkblue;
+    cursor:crosshair;
+}
+.d{
+    background-color: orangered;
+    cursor:wait;
+}
+.e{
+    background-color: whitesmoke;
+    cursor:move;
+}
